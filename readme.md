@@ -158,7 +158,7 @@ int main(int argc, char** argv) { return app(argc, argv); }
 
 ---
 
-## Scope for iOS / C++32 proposal track
+## Scope for C++32 proposal track
 
 - Keep the model C++-native and auditable.
 - Maintain tiny operational surface: one entry point, deterministic plan, explicit cache logic.
